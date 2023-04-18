@@ -1,6 +1,6 @@
-# BASE Student Poll (client)
+# Student poll (client)
 
-This app surveys students about their job intrest
+student poll app
 
 ## Install the dependencies
 ```bash
